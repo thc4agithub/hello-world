@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I am checking out github.  I went to Code for San Francisco tonight.
